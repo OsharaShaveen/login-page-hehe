@@ -3,9 +3,9 @@ class Database{
  
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "PHPLearning";
+    private $db_name = "oshara";
     private $username = "root";
-    private $password = "";
+    private $password = "oshara1234";
     public $conn;
  
     // get the database connection
